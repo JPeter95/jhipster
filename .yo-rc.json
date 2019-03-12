@@ -1,0 +1,35 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "org.jhipster.cyber"
+    },
+    "jhipsterVersion": "5.8.2",
+    "applicationType": "monolith",
+    "baseName": "jhipster",
+    "packageName": "org.jhipster.cyber",
+    "packageFolder": "org/jhipster/cyber",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ODJlNGVjMjE3ZmQ3NjZhZWEzMWUzYjVjNjM5NGRkNTI4MTE2NTAxYTRjNjRhM2E0OWQ4MjljMzM4MDQ1ZDU2Mzc5ZGFjYWNkMjZjM2I3NjQ1NTZmODgwNzdkZTI1ZWQ4NjQxZGJkNTdjNjdmNTcwYzUxYmU4OTY5ZGU1NDE5Mjc=",
+    "clientFramework": "react",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
